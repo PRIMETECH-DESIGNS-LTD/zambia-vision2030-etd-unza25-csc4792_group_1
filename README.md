@@ -18,9 +18,25 @@ inconsistent, delaying policy adjustments.
 priority sectors.
 
 ### 1.2 Business Objectives
-- Automate ETD classification with ≥90% accuracy
-- Identify underfunded sectors through cluster analysis
-- Develop public dashboard for transparency
+- Automate ETD classification with ≥ 90% accuracy across all 12 Vision 2030 sectors
+
+- Integrate ≥ 90% of identified ETD data sources (government, reports, international databases) into a unified repository
+
+- Reduce ETD classification time from days/weeks to < 24 hours
+
+- Identify underfunded or emerging sectors through automated analytics (e.g., cluster analysis, trend detection)
+
+- Develop an interactive, public-facing dashboard for sector trends and transparency
+
+- Provide sector classification explanations for ≥ 95% of ETDs to ensure trust and auditability
+
+- Achieve ≥ 90% agreement between automated classifications and expert human review
+
+- Enable quarterly automated reports on ETD distribution across sectors for policymakers
+
+- Maintain system uptime ≥ 99% to support continuous access for decision-makers
+
+- Implement a feedback loop allowing policymakers to correct classifications and improve the model over time
 
 ### 1.3 Data Mining Goals
 
