@@ -103,3 +103,17 @@ priority sectors.
 | **Structured**    | ZDA API, World Bank JSON              | Supervised learning inputs             |  
 | **Unstructured**  | 8NDP PDFs, AfDB reports               | Text mining for latent themes         |  
 | **Validation**    | MoF budgets, ISIC codes               | Policy alignment and model auditing    |  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
